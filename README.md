@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Steven Lee</h1>
-<h3 align="center">A third-year Computer Science student at the University of California, Irvine</h3>
+<h3 align="center">A fourth-year Computer Science student at the University of California, Irvine</h3>
 
 
 - 🔭 I’m currently working on **Passing the AWS practitioner exam**
 
-- 🌱 I’m currently learning **AWS, Mysql**
+- 🌱 I’m currently learning **C#, .net**
 
 - 📫 How to reach me **Stevenlee102004@gmail.com**
 
